@@ -4,7 +4,7 @@ This is a repository intended to serve as a starting point if you want to bootst
 
 ## Features
 
-- [TypeScript](https://www.typescriptlang.org/) (v4)
+- [TypeScript](https://www.typescriptlang.org/)
 - [ts-node-dev](https://github.com/wclr/ts-node-dev)
 - [Prettier](https://prettier.io/)
 - [ESLint](https://eslint.org/) with:
